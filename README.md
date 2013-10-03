@@ -12,7 +12,7 @@
 
 ## Documentation
 
-Most simplest module ever to hide the split mode in cms
+Simplest module ever to hide the split mode in cms
 
 ## Installation
 Place the module dir in your website root and run /dev/build?flush=all
